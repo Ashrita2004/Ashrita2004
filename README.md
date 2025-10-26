@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center"> I'm Ashrita Lahon</h1>
-<h3 align="center">Frontend-Focused Developer | Learning Backend | Enthusiastic about ML & Real-World AI Applications"</h3>
+<h3 align="center">Web Developer specializing in frontend technologies such as React and JavaScript, with growing expertise in backend development. Interested in applying machine learning models to enhance real-world web solutions."</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
