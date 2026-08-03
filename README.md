@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center"> I'm Ashrita Lahon</h1>
-<h3 align="center">Web Developer specializing in frontend tech, expanding into backend and applied machine learning.</h3>
+<h3 align="center">Developer proficient in Java & Frontend Tech | Expanding into Backend Systems & Applied Machine Learning.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
